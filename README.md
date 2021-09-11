@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://komarev.com/ghpvc/?username=0123takaokeita&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=0123takaokeita&color=blueviolet&style=plastic)
 
 <!--
 **0123takaokeita/0123takaokeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
