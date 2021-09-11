@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=0123takaokeita&color=blueviolet&style=plastic)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0123takaokeita)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **0123takaokeita/0123takaokeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
