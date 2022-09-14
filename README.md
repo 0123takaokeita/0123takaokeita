@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 
+# My Qiita
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/kit_tko/posts.svg)](http://qiita.com/mikkame)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/mikkame)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/mikkame)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0123takaokeita&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0123takaokeita&theme=github_dark)
 
