@@ -2,7 +2,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/HQQJFEA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.13&b=2.85&i=2.64&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 12/17/2022, 4:11:20 AM UTC
+Last Updated on 12/18/2022, 12:33:41 AM
 <!--END_SECTION:lapras-card-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0123takaokeita&theme=github_dark)
