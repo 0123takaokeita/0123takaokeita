@@ -18,4 +18,4 @@ Last Updated on 1/11/2023, 12:36:12 AM
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kit_tko/contributions.svg)](http://qiita.com/kit_tko)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/kit_tko/followers.svg)](http://qiita.com/kit_tko)
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/<0123takaokeita>/<0123takaokeita>/master/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/0123takaokeita/0123takaokeita/master/img/snake.svg) 
