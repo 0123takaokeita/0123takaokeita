@@ -17,3 +17,6 @@ Last Updated on 1/11/2023, 12:36:12 AM
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kit_tko/posts.svg)](http://qiita.com/kit_tko)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kit_tko/contributions.svg)](http://qiita.com/kit_tko)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/kit_tko/followers.svg)](http://qiita.com/kit_tko)
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
